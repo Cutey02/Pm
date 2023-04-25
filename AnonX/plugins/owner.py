@@ -17,13 +17,13 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/2ff2dab0dd5953e674c79.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
+        photo=f"https://telegra.ph/file/080436e7e221f2ae601e8.jpg",
+        caption=f"""💫ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴏᴡɴᴇʀ💫""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝐕𝐈𝐏 𝐁𝐎𝐘 🌹", url=f"https://t.me/THE_VIP_BOY")
+                        "✨𝙆𝙄𝙉𝙂 𝙊𝙁 𝙈𝙐𝙎𝙄𝘾✨", url=f"https://t.me/Gplove_Rp")
                 ]
             ]
         ),
@@ -35,13 +35,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/2ff2dab0dd5953e674c79.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
+        photo=f"https://telegra.ph/file/080436e7e221f2ae601e8.jpg",
+        caption=f"""💫ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴏᴡɴᴇʀ💫""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝐕𝐈𝐏 𝐁𝐎𝐘 🌹", url=f"https://t.me/THE_VIP_BOY")
+                        "✨𝙆𝙄𝙉𝙂 𝙊𝙁 𝙈𝙐𝙎𝙄𝘾✨", url=f"https://t.me/Gplove_Rp")
                 ]
             ]
         ),
@@ -54,7 +54,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/40f6128e4820b94264870.jpg",
+        photo=f"https://telegra.ph/file/f1ac29224978252c13cba.jpg",
         caption=f"""🦋•────────────────•🦋 \n          🇸𝗧𝗨𝗗𝗬  𝙉𝘿 𝘾𝙍𝙔😭
 🦋•────────────────•🦋
 ┏━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┓
@@ -67,7 +67,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𓆩.̶͟͟͞͞͞͞ 𝐌Ս𝗞𝗞Ս ✘𓆪‌⏤͟✨❤️🥀", url=f"https://t.me/ll_mukku_ll/11")
+                        "💫support Group💫", url=f"https://t.me/+ToqLdbxeg7o2MGI9")
                 ]
             ]
         ),
@@ -79,7 +79,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/40f6128e4820b94264870.jpg",
+        photo=f"https://telegra.ph/file/f1ac29224978252c13cba.jpg",
         caption=f"""🦋•────────────────•🦋 \n          🇸𝗧𝗨𝗗𝗬  𝙉𝘿 𝘾𝙍𝙔😭
 🦋•────────────────•🦋
 ┏━━━•◦●◉✿ ❟❛❟ ✿◉●◦•━━━━┓
@@ -92,7 +92,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𓆩.̶͟͟͞͞͞͞ 𝐌Ս𝗞𝗞Ս ✘𓆪‌⏤͟✨❤️🥀", url=f"https://t.me/ll_mukku_ll/11")
+                        "💫support Group💫", url=f"https://t.me/+ToqLdbxeg7o2MGI9")
                 ]
             ]
         ),
@@ -106,12 +106,12 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/4b52da6d880cbb199298a.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        caption=f"""💫ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ💫""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "✨sᴏᴜʀᴄᴇ✨", video=f"https://telegra.ph/file/bdb469a86fb4e18ab9930.mp4")
                 ]
             ]
         ),
@@ -124,12 +124,12 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/4b52da6d880cbb199298a.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        caption=f"""💫ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ💫""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "✨sᴏᴜʀᴄᴇ✨", video=f"https://telegra.ph/file/bdb469a86fb4e18ab9930.mp4")
                 ]
             ]
         ),
@@ -142,12 +142,12 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/4b52da6d880cbb199298a.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        caption=f"""💫ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ💫""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "✨sᴏᴜʀᴄᴇ✨", video=f"https://telegra.ph/file/bdb469a86fb4e18ab9930.mp4")
                 ]
             ]
         ),
