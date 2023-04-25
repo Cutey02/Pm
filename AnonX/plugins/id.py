@@ -7,9 +7,9 @@ def ids(_, message):
     reply = message.reply_to_message
     if reply:
         message.reply_text(
-            f"🌱{reply.from_user.first_name}'𝐒 𝐈𝐃🌱: {reply.from_user.id}\n\n🍁𝐘𝐎𝐔𝐑 𝐈𝐃🍁: {message.from_user.id}\n\n🥀𝐆𝐑𝐎𝐔𝐏 𝐈𝐃🥀: {message.chat.id}"
+            f"✨{reply.from_user.first_name}'𝐒 ɪᴅ✨: {reply.from_user.id}\n\n✨ʏᴏᴜʀ ɪᴅ✨: {message.from_user.id}\n\n✨ɢʀᴏᴜᴘ ɪᴅ✨: {message.chat.id}"
         )
     else:
         message.reply(
-            f"🍁𝐘𝐎𝐔𝐑 𝐈𝐃🍁: {message.from_user.id}\n\n🥀𝐆𝐑𝐎𝐔𝐏 𝐈𝐃🥀: {message.chat.id}"
+            f"✨ʏᴏᴜʀ ɪᴅ✨: {message.from_user.id}\n\n✨ɢʀᴏᴜᴘ ɪᴅ✨: {message.chat.id}"
         )
