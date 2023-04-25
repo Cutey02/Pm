@@ -52,22 +52,22 @@ async def init():
     await userbot.start()
     await Anon.start()
     try:
-        await Anon.stream_decall("https://telegra.ph/file/de3464aa7d6bfafdd2dc3.mp4")
+        await Anon.stream_decall("https://telegra.ph/file/5a2d5caf6425b2971a19f.mp4")
     except:
         pass
     try:
         await Anon.stream_call(
-            "https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4"
+            "https://telegra.ph/file/5a2d5caf6425b2971a19f.mp4"
         )
     except NoActiveGroupCall:
         LOGGER("AnonX").error(
-            "[ERROR] - \n\nHey Baby, firstly open telegram and turn on voice chat in Logger Group else fu*k off. If you ever ended voice chat in log group i will stop working and users will fu*k you up."
+            "[ERROR] - \n\nHey Baby, firstly open telegram and turn on voice chat in Logger Group else."
         )
         sys.exit()
     except:
         pass
     await Anon.decorators()
-    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗩𝗜𝗣 𝗕𝗢𝗬♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("AnonX").info("╔═════ஜ۩𝙂۩ஜ════╗\n  💫𝙈𝘼𝘿𝙀 𝘽𝙔 𝙂𝙋💫\n╚═════ஜ۩𝙋۩ஜ════╝")
     await idle()
 
 
