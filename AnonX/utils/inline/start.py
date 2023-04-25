@@ -15,11 +15,11 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="🎭 𝐇𝐞𝐥𝐩 🎭",
+                text="▫️ʜᴇʟᴘ▫️",
                 callback_data="settings_back_helper",
             ),
             InlineKeyboardButton(
-                text="🕹️ 𝐒𝐞𝐭𝐭𝐢𝐧𝐠𝐬 🕹️", callback_data="settings_helper"
+                text="▫️sᴇᴛᴛɪɴɢ▫️", callback_data="settings_helper"
             ),
         ],
      ]
@@ -36,23 +36,23 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="📍𝐎𝐰𝐧𝐞𝐫📍", user_id=OWNER
+                text="🔸ᴏᴡɴᴇʀ🔸", user_id=OWNER
             ),
             InlineKeyboardButton(
-                text="🎭 𝐇𝐞𝐥𝐩 🎭", callback_data="settings_back_helper"
+                text="▫️ʜᴇʟᴘ▫️", callback_data="settings_back_helper"
             )
         ],
         [
             InlineKeyboardButton(
-                text="🍒𝐆𝐫𝐨𝐮𝐩🍒", url=config.SUPPORT_GROUP
+                text="🔹ɢʀᴏᴜᴘ🔹", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="🏠𝐎𝐟𝐟𝐢𝐜𝐞🏠", url=f"https://t.me/+ToqLdbxeg7o2MGI9",
+                text="▫️ᴏғғɪᴄᴇ▫️", url=f"https://t.me/+ToqLdbxeg7o2MGI9",
             )
         ],
         [
             InlineKeyboardButton(
-                text="🌱ƨσʋяcɛ🌱",
+                text="▫️sᴏᴜʀᴄᴇ▫️",
                 url=f"https://telegra.ph/file/bdb469a86fb4e18ab9930.mp4",
             )
         ],
