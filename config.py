@@ -1,20 +1,3 @@
-
-THE-VIP-BOY-OP
-/
-VIP-MUSIC
-Public
-Code
-Issues
-Pull requests
-Projects
-Security
-Insights
-Beta Try the new code view
-VIP-MUSIC/config.py
-@THE-VIP-BOY-OP
-THE-VIP-BOY-OP Update config.py
- 5 contributors
-349 lines (270 sloc)  11.1 KB
 import re
 import sys
 from os import getenv
